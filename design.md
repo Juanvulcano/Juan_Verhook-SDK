@@ -9,7 +9,10 @@ The current version is a minimalistic example of an SDK. It includes a single AP
 
 ### Class Diagram with UML
 
-This is an example of the current implementation. It can also be extended to other languages in the future as in:
+<img width="196" alt="class" src="https://user-images.githubusercontent.com/9177978/209793683-11ad0f54-5e9f-48b4-9e1f-bae66c734ab1.png">
+
+
+This is an example of what an implementation in javascript could look like as well. 
 
 ```
 request = new APICall(
