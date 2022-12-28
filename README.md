@@ -9,7 +9,7 @@ LOTR3-demo is a sample (SDK) for Python, which allows Python developers to write
 
 To install the package use pip:
 
-pip install LOTR3-demo
+```pip install LOTR3-demo```
 
 ## Usage
 
@@ -25,3 +25,5 @@ Its possible to check individual tests regarding the expected behavior of the AP
 
  ```python3 -m unittest tests.py```
 
+### Design
+Refer to the relevant document for more information about the current project design.
